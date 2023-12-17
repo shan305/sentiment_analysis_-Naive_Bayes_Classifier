@@ -1,0 +1,14 @@
+Confusion Matrix:
+    |   n   p |
+    |   e   o |
+    |   g   s |
+----+---------+
+neg |<296>103 |
+pos |   .<401>|
+----+---------+
+(row = reference; col = test)
+
+
+Precision: 79.56%
+Recall: 100.00%
+F1 Score: 88.62%
