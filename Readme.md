@@ -15,7 +15,7 @@ pip install nltk matplotlib
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/your-username/your-repository.git
+   git clone https://github.com/shan305/sentiment_analysis_-Naive_Bayes_Classifier.git
    ```
 
 2. **Navigate to the Project Directory:**
